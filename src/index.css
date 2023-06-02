@@ -1,0 +1,11 @@
+body{
+    font-family: sans-serif;
+}
+.no_available{
+    color: red;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
